@@ -1,8 +1,6 @@
-# WavePoint Safety Documentation
+# Safety Documentation
 
 WavePoint is designed with **safety-first** principles. The system is built to **fail safely** - when in doubt, it pauses rather than performing unintended actions.
-
-## Design Philosophy
 
 ## Safety Mechanisms
 

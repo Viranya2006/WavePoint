@@ -1,8 +1,6 @@
-# WavePoint Architecture
+# Architecture Details
 
 WavePoint is a hybrid Python/C++ application designed for real-time hand gesture recognition and mouse control. The architecture prioritizes low latency, stability, and safety.
-
-## Overview
 
 ## System Architecture
 
