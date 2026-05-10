@@ -1,0 +1,28 @@
+# WavePoint Python Dependencies
+# Production-grade hand gesture mouse control
+
+# Core Computer Vision
+opencv-python>=4.8.0
+mediapipe>=0.10.0
+numpy>=1.24.0
+
+# UI Framework
+PyQt6>=6.5.0
+
+# System Integration
+pywin32>=306
+pynput>=1.7.6
+
+# Configuration
+pydantic>=2.0.0
+pydantic-settings>=2.0.0
+
+# Build Tools (development)
+pybind11>=2.11.0
+cmake>=3.27.0
+
+# Optional: GPU acceleration
+# tensorflow>=2.13.0  # Uncomment for GPU MediaPipe
+
+# Packaging (optional)
+# pyinstaller>=5.13.0
