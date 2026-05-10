@@ -1,6 +1,6 @@
 # WavePoint
 
-![WavePoint App](image.png)
+![WavePoint App](user-attachments/assets/image.png)
 
 WavePoint is a Windows app for controlling your mouse cursor with hand movements from a webcam. It combines a Python UI with a C++ gesture engine for low-latency cursor control, safety checks, and offline processing.
 
